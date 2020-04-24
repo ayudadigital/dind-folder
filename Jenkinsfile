@@ -17,7 +17,6 @@ pipeline {
         stage ('Make release') {
             when { branch 'release/new' }
             steps {
-                buildAndPublishDockerImage()
                 jplMakeRelease(cfg, true)
                 deleteDir()
             }
