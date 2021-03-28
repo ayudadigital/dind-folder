@@ -1,5 +1,22 @@
 # Changelog
 
+## v1.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v1.0.1 info with JPL ([f02085f](https://github.com/ayudadigital/dind-folder/commit/f02085f))
+* Use jpl v6.2.0 ([a85aa45](https://github.com/ayudadigital/dind-folder/commit/a85aa45))
+
+#### Docs
+
+* Generate v1.0.0 changelog with JPL ([9f30393](https://github.com/ayudadigital/dind-folder/commit/9f30393))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-24)
 
 ### Changes
